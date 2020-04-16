@@ -74,7 +74,7 @@ namespace Domotech.iRemote
 
     #endregion
 
-    public class Client : IDisposable
+    public sealed class Client : IClient
     {
         #region Declarations
 
