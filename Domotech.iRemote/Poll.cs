@@ -1,7 +1,6 @@
+using Domotech.iRemote.Items;
 using System;
 using System.Collections.Generic;
-using System.Text;
-using Domotech.iRemote.Items;
 
 namespace Domotech.iRemote
 {

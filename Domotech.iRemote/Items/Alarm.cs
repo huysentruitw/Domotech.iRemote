@@ -1,6 +1,4 @@
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Domotech.iRemote.Items
 {
@@ -101,7 +99,5 @@ namespace Domotech.iRemote.Items
         }
 
         #endregion
-
-        
     }
 }

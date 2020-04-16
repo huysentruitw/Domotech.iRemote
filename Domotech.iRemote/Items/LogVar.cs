@@ -1,8 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Text;
-using Domotech.iRemote;
-
 namespace Domotech.iRemote.Items
 {
     public class LogVar : NamedItem

@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using System.Text;
 using Domotech.iRemote.Items;
 using Timer = Domotech.iRemote.Items.Timer;
 
