@@ -10,7 +10,6 @@
     <PackageProjectUrl>https://github.com/huysentruitw/Domotech.iRemote</PackageProjectUrl>
     <Description></Description>
     <Copyright>Copyright 2009-2019 Wouter Huysentruit</Copyright>
-    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
