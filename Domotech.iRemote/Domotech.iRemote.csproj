@@ -9,7 +9,7 @@
     <Company>Wouter Huysentruit</Company>
     <PackageProjectUrl>https://github.com/huysentruitw/Domotech.iRemote</PackageProjectUrl>
     <Description>Domotech iRemote .NET Client Library</Description>
-    <Copyright>Copyright 2009-2019 Wouter Huysentruit</Copyright>
+    <Copyright>Copyright 2009-2020 Wouter Huysentruit</Copyright>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
